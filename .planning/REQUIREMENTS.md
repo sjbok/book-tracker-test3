@@ -69,30 +69,30 @@ Deferred until the focused CRUD workflow is proven.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| BOOK-01 | Pending | Pending |
-| BOOK-02 | Pending | Pending |
-| BOOK-03 | Pending | Pending |
-| BOOK-04 | Pending | Pending |
-| BOOK-05 | Pending | Pending |
-| BOOK-06 | Pending | Pending |
-| SRCH-01 | Pending | Pending |
-| SRCH-02 | Pending | Pending |
-| SRCH-03 | Pending | Pending |
-| UX-01 | Pending | Pending |
-| UX-02 | Pending | Pending |
-| UX-03 | Pending | Pending |
-| UX-04 | Pending | Pending |
-| API-01 | Pending | Pending |
-| API-02 | Pending | Pending |
-| API-03 | Pending | Pending |
-| SHIP-01 | Pending | Pending |
-| SHIP-02 | Pending | Pending |
-| SHIP-03 | Pending | Pending |
+| BOOK-01 | Phase 2 | Pending |
+| BOOK-02 | Phase 2 | Pending |
+| BOOK-03 | Phase 2 | Pending |
+| BOOK-04 | Phase 2 | Pending |
+| BOOK-05 | Phase 1 | Pending |
+| BOOK-06 | Phase 1 | Pending |
+| SRCH-01 | Phase 2 | Pending |
+| SRCH-02 | Phase 2 | Pending |
+| SRCH-03 | Phase 3 | Pending |
+| UX-01 | Phase 3 | Pending |
+| UX-02 | Phase 3 | Pending |
+| UX-03 | Phase 3 | Pending |
+| UX-04 | Phase 3 | Pending |
+| API-01 | Phase 1 | Pending |
+| API-02 | Phase 1 | Pending |
+| API-03 | Phase 1 | Pending |
+| SHIP-01 | Phase 4 | Pending |
+| SHIP-02 | Phase 4 | Pending |
+| SHIP-03 | Phase 4 | Pending |
 
 **Coverage:**
 - v1 requirements: 19 total
-- Mapped to phases: 0
-- Unmapped: 19
+- Mapped to phases: 19
+- Unmapped: 0
 
 ## User Stories
 
